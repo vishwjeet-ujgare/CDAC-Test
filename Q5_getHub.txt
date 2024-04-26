@@ -1,0 +1,6 @@
+Q.6 Create a Java application that displays 'Hello C-DAC' and move it to GitHub. Then modify the message to 'Hello from C-DAC ACTS' and again move it to Github.
+a
+
+
+
+GitHub Id : https://github.com/vishwjeet-ujgare
